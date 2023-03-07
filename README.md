@@ -1,6 +1,6 @@
 <p align="center"><h1>🧠 ChatGPT Prompts applied to Geomatics</h1></p>
 
-Welcome to the ChatGPT Prompts applied to Geomatics" repository! This is a collection of prompt examples to be used with the ChatGPT model for geomatics applications.
+Welcome- to the ChatGPT Prompts applied to Geomatics" repository! This is a collection of prompt examples to be used with the ChatGPT model for geomatics applications.
 
 The [ChatGPT](https://chat.openai.com/chat) model is a large language model trained by [OpenAI](https://openai.com) that is capable of generating human-like text. By providing it with a prompt, it can generate responses.
 

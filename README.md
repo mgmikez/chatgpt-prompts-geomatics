@@ -25,3 +25,4 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 >Can you generate a CSV file with this information by adding a column for latitude and longitude?
 
 ###  Result displayed with QGIS with an OSM base map
+![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/miserables.jpg?raw=true)

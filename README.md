@@ -15,4 +15,13 @@ We hope you find these prompts useful and have fun using ChatGPT!
 # Prompts
 
 ## Extract geographic information from a text and generate geographic coordinates
+Contributed by: [@mgmikez](https://github.com/mgmikez)
+**Example**: with the novel "Les Misérables" by Victor Hugo
 
+### Step 1
+>What are the main geographical locations in Paris in the novel "Les Miserables"?
+
+### Step 2
+>Can you generate a CSV file with this information by adding a column for latitude and longitude?
+
+###  Result displayed with QGIS with an OSM base map

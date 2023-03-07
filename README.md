@@ -26,3 +26,9 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 
 ###  Result displayed with QGIS with an OSM base map
 ![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/miserables.jpg?raw=true)
+
+## Create a dynamic web map with points in CSV format
+Contributed by: [@mgmikez](https://github.com/mgmikez)
+**Example**: with the Google Maps API
+
+>Generate the HTML and javascript files with the Google Maps API for a CSV file

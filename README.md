@@ -36,3 +36,16 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 ###  Result displayed on a web browser
 ![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/googlemaps.jpg?raw=true)
 Link: [Map Example](http://igeomedia.com/~mickael/dga)
+
+## Create a relational database with spatial reference with a spatial relationship 
+Contributed by: [@mgmikez](https://github.com/mgmikez)
+**Example**: spatial relationship with PostgreSQL/PostGIS -  municipality belongs to a county, and a county belongs to a region
+
+### Step 1
+>Create a relational database with spatial reference with the following concepts: a municipality belongs to a county, and a county belongs to a region
+
+### Step 2
+>Generate the SQL schema for postgis
+
+### Step 3
+>Give me an example of an SQL query to display all the municipalities in a region

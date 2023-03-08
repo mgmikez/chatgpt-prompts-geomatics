@@ -35,3 +35,4 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 
 ###  Result displayed on a web browser
 ![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/googlemaps.jpg?raw=true)
+Link: [Map Example](http://igeomedia.com/~mickael/dga)

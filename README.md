@@ -37,7 +37,7 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 ![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/googlemaps.jpg?raw=true)
 Link: [Map Example](http://igeomedia.com/~mickael/dga)
 
-## Create a relational database with spatial reference with a spatial relationship 
+## Create a relational database with a spatial relationship 
 Contributed by: [@mgmikez](https://github.com/mgmikez)
 **Example**: spatial relationship with PostgreSQL/PostGIS -  municipality belongs to a county, and a county belongs to a region
 
@@ -49,3 +49,21 @@ Contributed by: [@mgmikez](https://github.com/mgmikez)
 
 ### Step 3
 >Give me an example of an SQL query to display all the municipalities in a region
+
+## Generate javascript code for Google Earth Engine to display image collection
+Contributed by: [@mgmikez](https://github.com/mgmikez)
+**Example**: Sentinel-2 on Montreal, Canada
+
+>Generate javascript code for Google Earth Engine to show SENTINEL-2 images on Montreal for July 2022
+
+###  Result displayed on the Google Earth Engine Editor
+![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/gee1.jpg?raw=true)
+
+## Generate javascript code for Google Earth Engine to display DEM and Slope map
+Contributed by: [@mgmikez](https://github.com/mgmikez)
+**Example**: on Montreal, Canada
+
+>Generate the javascript code of Google Earth Engine to show the digital terrain model of Montreal and the slope
+
+###  Result displayed on the Google Earth Engine Editor
+![alt text](https://github.com/mgmikez/chatgpt-prompts-geomatics/blob/main/images/gee2.jpg?raw=true)
